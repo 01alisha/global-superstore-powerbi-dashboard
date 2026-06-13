@@ -74,17 +74,19 @@ All charts and KPIs update instantly based on user selections.
 
 ### Executive Overview
 
-![Executive Overview](screenshots/executive-overview.png) (page 1)
+![Executive Overview](screenshots/page 1.png)
 
 ### Customer Analytics
 
-![Customer Analytics](screenshots/customer-analytics.png) (page 2)
+![Customer Analytics](screenshots/page 2.png)
 
-### Product & Category Analytics
+### Product Analytics
 
-![Product Analytics](screenshots/product-analytics.png) (page 3)
+![Product Analytics](screenshots/page 3.png)
 
----
+### Interactive Filtered View
+
+![Filtered View](screenshots/page 1 with filters.png)
 
 ## 🔍 Business Insights
 
