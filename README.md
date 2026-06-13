@@ -74,19 +74,19 @@ All charts and KPIs update instantly based on user selections.
 
 ### Executive Overview
 
-![Executive Overview](screenshots/page 1.png)
+![Executive Overview](screenshots/executive-overview.png)
 
 ### Customer Analytics
 
-![Customer Analytics](screenshots/page 2.png)
+![Customer Analytics](screenshots/customer-analytics.png)
 
 ### Product Analytics
 
-![Product Analytics](screenshots/page 3.png)
+![Product Analytics](screenshots/product-analytics.png)
 
 ### Interactive Filtered View
 
-![Filtered View](screenshots/page 1 with filters.png)
+![Filtered View](screenshots/filtered-view.png)
 
 ## 🔍 Business Insights
 
@@ -106,10 +106,10 @@ global-superstore-powerbi-dashboard
 ├── Dashboard.pbix
 ├── README.md
 ├── screenshots
-│   ├── executive-overview(page 1).png
-│   ├── customer-analytics (page 2).png
-│   └── product-analytics (page 3).png
-│
+│   ├── executive-overview.png
+│   ├── customer-analytics.png
+│   └── product-analytics .png
+│   |__ filtered-view.png
 └── dataset
     └── superstore.csv
 ```
